@@ -1,6 +1,5 @@
 import yy_libs.crawler_finance_prices
 import yy_libs.input_data_company_code
-# import os
 
 # 종목코드 및 종목명 추출
 values = yy_libs.input_data_company_code.getCompanyCodes()
